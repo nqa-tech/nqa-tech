@@ -27,7 +27,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google OAuth2](https://img.shields.io/badge/Google_OAuth2-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Log4j2](https://img.shields.io/badge/Log4j2-%23D32F2F.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MapStruct](https://img.shields.io/badge/MapStruct-%2345B8AC.svg?style=for-the-badge&logo=mapstruct&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nga-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -47,8 +46,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nga-tech&repo=shopping-cart-jwt-fe&theme=radical)](https://github.com/nga-tech/shopping-cart-jwt-fe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nga-tech&repo=human-resource-payroll&theme=radical)](https://github.com/nga-tech/human-resource-payroll)
 
-## 🌄 GitHub Skyline
-[![GitHub Skyline](https://github.com/nga-tech/nga-tech.github.io/raw/main/skyline.png)](https://skyline.github.com/nga-tech/2024)
 
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=nga-tech&color=blueviolet)
