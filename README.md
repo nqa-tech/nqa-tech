@@ -1,8 +1,10 @@
 # nqa-tech
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/NQA.194) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nqa-tech/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.nq.anh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nguyenquocanh.tech@gmail.com)
+
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,22 +34,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=nqa-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nqa-tech&theme=radical&hide_border=false)
 
-## 🔥 GitHub Streak Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=nga-tech&theme=radical&hide_border=false)
-
 ## 📚 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqa-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nqa-tech&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔥 GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nga-tech&theme=react-dark&hide_border=true&area=true)
-
-
 ## 💡 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=nga-tech&color=blueviolet)
