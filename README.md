@@ -36,8 +36,8 @@
 ## 📚 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqa-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nga-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=nqa-tech&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🔥 GitHub Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nga-tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
