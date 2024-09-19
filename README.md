@@ -29,9 +29,9 @@
 ![Log4j2](https://img.shields.io/badge/Log4j2-%23D32F2F.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nga-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nga-tech&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nga-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nqa-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nqa-tech&theme=radical&hide_border=false)
+
 
 ## 📚 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqa-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
