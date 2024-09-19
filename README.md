@@ -42,10 +42,6 @@
 ## 💡 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📂 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nga-tech&repo=shopping-cart-jwt-fe&theme=radical)](https://github.com/nga-tech/shopping-cart-jwt-fe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nga-tech&repo=human-resource-payroll&theme=radical)](https://github.com/nga-tech/human-resource-payroll)
-
 
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=nga-tech&color=blueviolet)
